@@ -14,6 +14,8 @@ b2 = 62.3
 print("Asteet radiaaneina: ")
 print(f"a = {np.radians(a2)} ja b = {np.radians(b2)}\n\n")
 
+# tehtävän 1 osa 3
+# taulukko, jossa asteet muunnettu radiaaneiksi
 A = np.array([30, 45, 60, 90, 120, 135, 150, 180, 270, 360])
 print("Radiaanitaulukko")
 for i in A:
